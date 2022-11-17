@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">System.out.print(👋 Luis Manuel Camacho Ruiz)</h1>
+<h1 align="center">System.out.print("👋 Luis Manuel Camacho Ruiz")</h1>
 <h2 align="center">Egresado de la carrera de Ingeniería en Sistema Computacionales, con conocimento en programación, redes y bases de datos</h2>
 <h2>Actualmente, estoy estudiando un diplomado en Java por parte de la Universidad Juárez Autónoma de Tabasco</h2>
 <h3 align="left">Contacto:</h3>
